@@ -12,7 +12,6 @@ void ShowArray(int [] array){
     for(int i=0; i<array.Length; i++){
         Console.Write(array[i]+" ");
     }
-    Console.Write($"=> ");
 }
 
 void ShowArrayReverse(int [] array){
@@ -27,4 +26,5 @@ int size = 10;
 
 int [] array = CreateArray(minNum, maxNum, size);
 ShowArray(array);
+Console.Write($"=> ");
 ShowArrayReverse(array);

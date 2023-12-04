@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Project\\Digital\\Lesson4_Function\\Task_3\\Task_3.csproj": {}
+    "F:\\Project\\Digital\\Lesson4_Functions\\Task_3\\Task_3.csproj": {}
   },
   "projects": {
-    "F:\\Project\\Digital\\Lesson4_Function\\Task_3\\Task_3.csproj": {
+    "F:\\Project\\Digital\\Lesson4_Functions\\Task_3\\Task_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Project\\Digital\\Lesson4_Function\\Task_3\\Task_3.csproj",
+        "projectUniqueName": "F:\\Project\\Digital\\Lesson4_Functions\\Task_3\\Task_3.csproj",
         "projectName": "Task_3",
-        "projectPath": "F:\\Project\\Digital\\Lesson4_Function\\Task_3\\Task_3.csproj",
+        "projectPath": "F:\\Project\\Digital\\Lesson4_Functions\\Task_3\\Task_3.csproj",
         "packagesPath": "C:\\Users\\tgtif\\.nuget\\packages\\",
-        "outputPath": "F:\\Project\\Digital\\Lesson4_Function\\Task_3\\obj\\",
+        "outputPath": "F:\\Project\\Digital\\Lesson4_Functions\\Task_3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tgtif\\AppData\\Roaming\\NuGet\\NuGet.Config"
